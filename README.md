@@ -53,7 +53,6 @@ cold-email-generator-bot/
     ├── chains.py              # Contains LangChain workflow logic
     ├── Main.py                # Entry point for running the Streamlit app
     ├── portfolio.py           # Portfolio data handling and integration
-    ├── test.py                # Script for unit tests and testing functions
     └── utils.py               # Utility functions for data processing and formatting
 ```
 ### Usage
