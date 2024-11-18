@@ -50,7 +50,7 @@ cold-email-generator-bot/
     │   ├── myPortfolio.csv    # CSV file containing data for portfolio context
     │   └── vectorstore/       # Directory for ChromaDB vector storage
     ├── .env                   # Environment variable file
-    ├── chains.py              # Contains LangChain workflow logic
+    ├── chain.py              # Contains LangChain workflow logic
     ├── Main.py                # Entry point for running the Streamlit app
     ├── portfolio.py           # Portfolio data handling and integration
     └── utils.py               # Utility functions for data processing and formatting
